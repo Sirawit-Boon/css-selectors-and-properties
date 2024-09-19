@@ -1,1 +1,22 @@
-/* start coding here */
+.registration-form {
+    font-weight: bold;
+}
+
+input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;
+}
+
+
+ button {
+    cursor: pointer;
+    width: 120px;
+    height: 36px;
+    border: 1px solid lightgrey;
+    border-right-color: grey;
+    border-bottom-color:grey ;
+    background-color: khaki;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px 1px grey;
+} 
